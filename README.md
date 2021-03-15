@@ -1,6 +1,6 @@
 # mern-auth
 
-![Final App](https://i.postimg.cc/tybZb8dL/final-MERNAuth.gif)
+![Final App](https://i.postimg.cc/TPsd2ssd/appGIF.gif)
 Minimal full-stack MERN app with authentication using passport and JWTs.
 
 This project uses the following technologies:
